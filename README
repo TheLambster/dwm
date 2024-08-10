@@ -1,11 +1,11 @@
-dwm - dynamic window manager
+DWM 5.8 fork by the Lambster
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
 
 
 Requirements
 ------------
-In order to build dwm you need the Xlib header files.
+In order to build dwm you need the Xlib header files. (already included)
 
 
 Installation
